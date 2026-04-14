@@ -11,6 +11,12 @@
   },
   "plugins": [
     {
+      "name": "diamond-plugin",
+      "source": "diamond-plugin",
+      "description": "test",
+      "version": "1.0.0"
+    },
+    {
       "name": "arize-ax",
       "source": "arize-ax",
       "description": "Arize AX platform skills for LLM observability, evaluation, and optimization. Includes trace export, instrumentation, datasets, experiments, evaluators, AI provider integrations, annotations, prompt optimization, and deep linking to the Arize UI.",
