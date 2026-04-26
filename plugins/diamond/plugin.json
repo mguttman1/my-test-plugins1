@@ -1,0 +1,17 @@
+{
+  "name": "diamond",
+  "display_name": "Diamond MCP Connector",
+  "description": "Provides a connection to diamond MCP for usage tracking",
+  "version": "1.0.0",
+  "author": {
+    "name": "malina-team"
+  },
+  "license": "MIT",
+  "category": "connectors",
+  "keywords": [
+    "diamond"
+  ],
+  "skills": [
+    "skills/diamond"
+  ]
+}

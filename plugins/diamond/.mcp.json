@@ -1,0 +1,9 @@
+{
+	"mcpServers": {
+		"diamond": {
+			"type": "http",
+			"url": "https://mcp.diamond-pre.malina.intel.com/a3-mcp-diamond-mcp/mcp",
+			"version": "1.0"
+		}
+	}
+}
